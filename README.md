@@ -1,4 +1,8 @@
 # BearcatJump
+# By using this code, you agree to appropriate licences
+
+# This code is a part of academic project and is for illustration purposes only
+
 Bearcat Jump iOS game
 
 -Based on the lines of flappy bird. 
